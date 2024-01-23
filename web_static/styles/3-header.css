@@ -2,6 +2,7 @@ header {
     background-image: url('../images/logo.png');
     background-size: auto;
     background-repeat: no-repeat;
+    margin-left: 10;
     color: white;
     position: absolute;
     top: 0;
